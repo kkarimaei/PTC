@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz The Cheetah #523",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/523.png",
+  "dna": "ce1b35bf185a153a17ee7ede5e526d706e3b979d",
+  "edition": 523,
+  "date": 1790058351531,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Excited Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy TShirt"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Messy Back Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Jeweled Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

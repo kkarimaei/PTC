@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #1894",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/1894.png",
+  "dna": "0c468fa566ca389d1f2f2383c123ca3bea7e455f",
+  "edition": 1894,
+  "date": 1790058666907,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Persia"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

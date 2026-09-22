@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz The Cheetah #3517",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/3517.png",
+  "dna": "ea57011331f3f8256a5eb4163bdb8bbcfa193ee6",
+  "edition": 3517,
+  "date": 1790059040843,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Navy Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Cheetah Chain"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch With Scratch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

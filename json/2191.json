@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #2191",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2191.png",
+  "dna": "4127bfb3d4eca3610e676e299d505e3c70c7c3e6",
+  "edition": 2191,
+  "date": 1790058738946,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

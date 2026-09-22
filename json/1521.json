@@ -1,0 +1,39 @@
+{
+  "name": "Pirouz The Cheetah #1521",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/1521.png",
+  "dna": "a97455d878ab48f8ce8037e9a02d04a17c94205a",
+  "edition": 1521,
+  "date": 1790058587137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Crying Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy TShirt"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Messy Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Multi Ring Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

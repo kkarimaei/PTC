@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz The Cheetah #92",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/92.png",
+  "dna": "23198bf36308d0d22c564cb30d441a15fe2dcf57",
+  "edition": 92,
+  "date": 1790058240582,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Olive Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Brown Pompadour Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

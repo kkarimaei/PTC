@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz The Cheetah #2639",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2639.png",
+  "dna": "515477dece868e0dcacd0646dc131a4a9d600af7",
+  "edition": 2639,
+  "date": 1790058837778,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Crismon Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Charcoal Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Thin Gold Chain"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Blonde Slicked Back Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #135",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/135.png",
+  "dna": "9b148563cfc9d782190b42f1b79cc2780ba0f654",
+  "edition": 135,
+  "date": 1790058249985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green TShirt"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Messy Back Hair"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz The Cheetah #968",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/968.png",
+  "dna": "7f1d53f5daf31e8cd2fada680d188bd4761b55b0",
+  "edition": 968,
+  "date": 1790058469451,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Magneta Face"
+    },
+    {
+      "trait_type": "Official Wear",
+      "value": "Vintage Olive Suit With Ascot"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Black Wayfarer Sunglasses"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

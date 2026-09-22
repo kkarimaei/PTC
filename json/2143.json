@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #2143",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2143.png",
+  "dna": "937a2740bc288f6170445251385af44c96aa56c0",
+  "edition": 2143,
+  "date": 1790058727278,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Solar Flare Hoodie"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #3149",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/3149.png",
+  "dna": "8a8088ff92acc26ba4d25930d6616a51425c3b2a",
+  "edition": 3149,
+  "date": 1790058953870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Magneta Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Dark Chain With Round Medallion"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

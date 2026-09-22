@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #1847",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/1847.png",
+  "dna": "f63b6902b13952c3722b2c31563b736a0042424e",
+  "edition": 1847,
+  "date": 1790058656074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Magneta Face"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

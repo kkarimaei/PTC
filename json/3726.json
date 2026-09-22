@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #3726",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/3726.png",
+  "dna": "5c75df306ce9fc4e18a1c0c77eb6355226a12ff6",
+  "edition": 3726,
+  "date": 1790059101760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Magneta Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Navy Tank Top"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Vintage Bobble"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

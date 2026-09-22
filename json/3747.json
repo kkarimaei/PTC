@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #3747",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/3747.png",
+  "dna": "9f157a16883fce03a044846ea68305a14f04c124",
+  "edition": 3747,
+  "date": 1790059109106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Ancient Attire",
+      "value": "Simurgh Patterned Silk"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

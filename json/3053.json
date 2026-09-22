@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #3053",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/3053.png",
+  "dna": "8483ee8260961f09f525d077f8d8173463967b3e",
+  "edition": 3053,
+  "date": 1790058931861,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Cheetah Chain"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

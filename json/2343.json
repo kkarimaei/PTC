@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #2343",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2343.png",
+  "dna": "3f56dea2a5b0fae47abfd90ae94d668d02089b4b",
+  "edition": 2343,
+  "date": 1790058770950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Goggles",
+      "value": "Light Blue Ski Goggles"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

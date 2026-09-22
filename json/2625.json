@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #2625",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2625.png",
+  "dna": "0a27880fae5a745f8a8f4942b8fcd5caa6085a3c",
+  "edition": 2625,
+  "date": 1790058834302,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Crying Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Dark Chain With Round Medallion"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

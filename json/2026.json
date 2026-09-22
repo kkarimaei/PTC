@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz The Cheetah #2026",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/2026.png",
+  "dna": "fd9ad5bd795dec61fb22bb60925f40b54135abbe",
+  "edition": 2026,
+  "date": 1790058698380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt With Simurgh"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}

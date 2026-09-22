@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #1940",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/Images/1940.png",
+  "dna": "4a4cfdfbd40193394efdf61d38e9fe81dbc95f46",
+  "edition": 1940,
+  "date": 1790058677354,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Excited Classic Face"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz Collection"
+}
