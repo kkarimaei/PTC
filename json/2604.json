@@ -1,0 +1,39 @@
+{
+  "name": "Pirouz #2604",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2604.png",
+  "dna": "8d42c4974fb5731077b42d6dc5fb252d39293396",
+  "edition": 3383,
+  "date": 1790585291255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Black Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Kaviani's Flag Pendant"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

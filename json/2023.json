@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #2023",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2023.png",
+  "dna": "e8cb7d50b7cddca6d2275032583d3423e83bf3e3",
+  "edition": 210,
+  "date": 1790584336289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Crying Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Solar Flare Hoodie"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Multi Ring Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

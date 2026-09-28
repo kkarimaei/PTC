@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #60",
+  "description": "For Pirouz and his probable extinction",
+  "image": "60.png",
+  "dna": "da3ccc23575d94d6387166a5df0c10a9dc60adab",
+  "edition": 3085,
+  "date": 1790585192965,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Crismon Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Charcoal Tank Top"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Black Wayfarer Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

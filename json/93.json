@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #93",
+  "description": "For Pirouz and his probable extinction",
+  "image": "93.png",
+  "dna": "cbf44c554b0be87f12c54b7440fdb1ae1ff3cebc",
+  "edition": 1688,
+  "date": 1790584743400,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Official Wear",
+      "value": "Gray Suit With Tie"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Spiky Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

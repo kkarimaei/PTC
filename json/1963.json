@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1963",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1963.png",
+  "dna": "a163a7cb6b1e60ad45d4bf9730f750b1ec278ab6",
+  "edition": 2191,
+  "date": 1790584908109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

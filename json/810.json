@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #810",
+  "description": "For Pirouz and his probable extinction",
+  "image": "810.png",
+  "dna": "ce064f2105d04a9b0d69a41653cba9df3e60ba2e",
+  "edition": 1869,
+  "date": 1790584800005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Ruby Flare Hoodie"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

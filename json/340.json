@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #340",
+  "description": "For Pirouz and his probable extinction",
+  "image": "340.png",
+  "dna": "0d44b2c6ff8f8e808ff4926e8497822b39294525",
+  "edition": 2357,
+  "date": 1790584961256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Magneta Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Goggles",
+      "value": "Blue Ski Goggles"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

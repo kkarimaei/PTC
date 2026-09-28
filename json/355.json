@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #355",
+  "description": "For Pirouz and his probable extinction",
+  "image": "355.png",
+  "dna": "12fb11721a9469f892e0fafc2e5a8580c2bcb48e",
+  "edition": 2538,
+  "date": 1790585016345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Crismon Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Koi Fish Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Light Tropical Shirt"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Safari Hat"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

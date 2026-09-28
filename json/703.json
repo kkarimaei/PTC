@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #703",
+  "description": "For Pirouz and his probable extinction",
+  "image": "703.png",
+  "dna": "d99c47edd2aa9494e6dbf2455764e14c7cb596a4",
+  "edition": 3364,
+  "date": 1790585285259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Thick Gold Chain"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

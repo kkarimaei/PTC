@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #52",
+  "description": "For Pirouz and his probable extinction",
+  "image": "52.png",
+  "dna": "02622e2914c909fd4a71d423326bd67767b086d8",
+  "edition": 1357,
+  "date": 1790584638404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Official Wear",
+      "value": "Gray Suit With Tie"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Blue Wayfarer Sunglasses"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

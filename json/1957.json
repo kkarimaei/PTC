@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #1957",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1957.png",
+  "dna": "95cab42e93333bc6b3f65fc6d9a46558b0bf6ed3",
+  "edition": 3465,
+  "date": 1790585317594,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Light Grey Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Dark Chain With Round Medallion"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

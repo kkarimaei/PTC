@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #2149",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2149.png",
+  "dna": "920ad7061e1d655a2e69512fbc0a855c14bc17b5",
+  "edition": 2071,
+  "date": 1790584866542,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Savage Hoodie"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

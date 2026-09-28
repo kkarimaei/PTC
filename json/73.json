@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #73",
+  "description": "For Pirouz and his probable extinction",
+  "image": "73.png",
+  "dna": "b3dfc58d69173ced9ae9222fecb2b2eb87b66a8f",
+  "edition": 3479,
+  "date": 1790585322108,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Cartier Chain With Cheetah Pendant"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Skull With Crown Tattoo"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

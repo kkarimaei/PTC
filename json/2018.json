@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #2018",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2018.png",
+  "dna": "7c9852476060c50de876ea8e19ea52c8f858270b",
+  "edition": 3605,
+  "date": 1790585362950,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Charcoal Tank Top"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Lightning Bolt Tattoo"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

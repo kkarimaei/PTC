@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #3072",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3072.png",
+  "dna": "1396c6ff5031ca8fe7a7ea97f13b178f2b56cb35",
+  "edition": 2019,
+  "date": 1790584849659,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Forest Runner Tracksuit"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

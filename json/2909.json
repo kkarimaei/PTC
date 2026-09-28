@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #2909",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2909.png",
+  "dna": "9dcc4b30c8342a010d8e89d6fed6416c9c0045cd",
+  "edition": 3492,
+  "date": 1790585326117,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Farvahar Chain"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Lightning Bolt Tattoo"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

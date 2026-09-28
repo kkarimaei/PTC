@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #837",
+  "description": "For Pirouz and his probable extinction",
+  "image": "837.png",
+  "dna": "ddaebc703ca05ea0a1d23cc3041d99c2423dcb38",
+  "edition": 1991,
+  "date": 1790584840090,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Hibiscus Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Dark Aviator Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

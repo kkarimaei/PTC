@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #907",
+  "description": "For Pirouz and his probable extinction",
+  "image": "907.png",
+  "dna": "13e8a7d05ec733fad9a55c83c1f7d3b8f0976b30",
+  "edition": 1871,
+  "date": 1790584800593,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Skull With Crown Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Olive paw Bomber"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Dark Aviator Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

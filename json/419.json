@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #419",
+  "description": "For Pirouz and his probable extinction",
+  "image": "419.png",
+  "dna": "b6f240f76095f6f087b3f22e41c20a22240512bf",
+  "edition": 56,
+  "date": 1790584301850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Crismon Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Lightning Bolt Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #1506",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1506.png",
+  "dna": "df7e939eff9094b43d1655f2c27991ada08939d9",
+  "edition": 200,
+  "date": 1790584334037,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

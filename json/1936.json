@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1936",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1936.png",
+  "dna": "75206479e0b39b930b35c403f870741436f9f2eb",
+  "edition": 2063,
+  "date": 1790584863973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy TShirt"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Silver Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

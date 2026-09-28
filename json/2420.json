@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #2420",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2420.png",
+  "dna": "491a037361d5ac053a8c8b8f8855d503a03c385e",
+  "edition": 1798,
+  "date": 1790584776936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Excited Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Solar Flare Hoodie"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Dark Aviator Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

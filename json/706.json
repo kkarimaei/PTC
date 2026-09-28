@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #706",
+  "description": "For Pirouz and his probable extinction",
+  "image": "706.png",
+  "dna": "a25b4c90b28b0a828b6a352f1b770a5dbe0a1883",
+  "edition": 2974,
+  "date": 1790585157381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Kaviani's Flag Pendant"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Highlighted Spiky Hair"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

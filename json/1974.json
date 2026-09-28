@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #1974",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1974.png",
+  "dna": "fb3e3cbbfefb34f9aa50f008a5dd5530fc4fd18a",
+  "edition": 106,
+  "date": 1790584313172,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Snake And Dagger Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Racer Jacket"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

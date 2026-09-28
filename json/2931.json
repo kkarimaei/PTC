@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #2931",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2931.png",
+  "dna": "cc826522686b8c5f81ca51bcc67dd5fedf0413bb",
+  "edition": 2544,
+  "date": 1790585018122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Snake And Dagger Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Light Tropical Shirt"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Newsboy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

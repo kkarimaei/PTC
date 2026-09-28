@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #931",
+  "description": "For Pirouz and his probable extinction",
+  "image": "931.png",
+  "dna": "24dd329ad0d6ddd75f3e24c0a8b3178f09a7be86",
+  "edition": 3065,
+  "date": 1790585186459,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Magneta Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Light Grey Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Dark Chain With Round Medallion"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

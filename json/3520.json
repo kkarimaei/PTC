@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #3520",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3520.png",
+  "dna": "12ca41fa50460b5797e889c43cbac0cad1a42da4",
+  "edition": 3223,
+  "date": 1790585239270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Dark Chain With Round Medallion"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

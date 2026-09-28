@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #110",
+  "description": "For Pirouz and his probable extinction",
+  "image": "110.png",
+  "dna": "d124e67593c31ead4556429c5f12e912ae7dc9c8",
+  "edition": 3553,
+  "date": 1790585346533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Black Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Kaviani's Flag Pendant"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Skull With Crown Tattoo"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

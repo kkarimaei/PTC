@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #3060",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3060.png",
+  "dna": "a509c23d2502841380e40b48a52a279130d89303",
+  "edition": 2261,
+  "date": 1790584932001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Snake And Dagger Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

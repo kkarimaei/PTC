@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #32",
+  "description": "For Pirouz and his probable extinction",
+  "image": "32.png",
+  "dna": "7e3c084cf8ae43e03307572657cfad795330ffe9",
+  "edition": 2495,
+  "date": 1790585002749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Olive Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Crismon Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Skull With Crown Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Solar Flare Hoodie"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Green Hunter Ring Beanie"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

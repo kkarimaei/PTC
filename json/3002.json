@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #3002",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3002.png",
+  "dna": "15e0743d9a1066cde7b8af53b03c54d2ab5fdd6b",
+  "edition": 2659,
+  "date": 1790585055904,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Yellow Cheetah Jersey"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Cheetah Chain"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

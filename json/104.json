@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz #104",
+  "description": "For Pirouz and his probable extinction",
+  "image": "104.png",
+  "dna": "62f617c59fcc08fe6e829b8d77239f00c4913093",
+  "edition": 3758,
+  "date": 1790585411570,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Ancient Attire",
+      "value": "Royal Persian Brocade"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #967",
+  "description": "For Pirouz and his probable extinction",
+  "image": "967.png",
+  "dna": "c392b3a94dd4ead182eb17f44141944a282a6c68",
+  "edition": 454,
+  "date": 1790584392119,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Snake And Dagger Tattoo"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

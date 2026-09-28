@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #3140",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3140.png",
+  "dna": "8e0b11ada511a4ac1e160046245adae5e0b596f1",
+  "edition": 2801,
+  "date": 1790585101838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Crying Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Farvahar Chain"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

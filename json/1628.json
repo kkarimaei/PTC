@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1628",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1628.png",
+  "dna": "f8c8590de267039107892a2bf433dfaa28d6906e",
+  "edition": 2173,
+  "date": 1790584902149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt With Simurgh"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

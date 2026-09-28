@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #441",
+  "description": "For Pirouz and his probable extinction",
+  "image": "441.png",
+  "dna": "21be8a973b90f26fd3ddfc02521407004800ce70",
+  "edition": 1117,
+  "date": 1790584564844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Official Wear",
+      "value": "Striped Shirt"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Spiky Hair"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

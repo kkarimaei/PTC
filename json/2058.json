@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #2058",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2058.png",
+  "dna": "0a99208b8a342a0a7a2ddf04d37fa559ef593b25",
+  "edition": 2799,
+  "date": 1790585101174,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Magneta Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Red Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Thick Gold Chain"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Blonde Slicked Back Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Ornate Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

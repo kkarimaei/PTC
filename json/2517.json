@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #2517",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2517.png",
+  "dna": "65c08b6ff399bb94a3076cd9d3bea16c4c71cf20",
+  "edition": 3382,
+  "date": 1790585290961,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Excited Crismon Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Navy Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Kaviani's Flag Pendant"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch With Scratch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

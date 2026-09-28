@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz #3076",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3076.png",
+  "dna": "a70caa2b20eb695db23bf2a28eb0ac93c4fbad4c",
+  "edition": 3745,
+  "date": 1790585408191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Friendly Classic Face"
+    },
+    {
+      "trait_type": "Ancient Attire",
+      "value": "Imperial Jeweled Collar Tunic"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

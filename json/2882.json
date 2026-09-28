@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #2882",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2882.png",
+  "dna": "4ff76338f7ccda60d3d542b8c17ed41f302ce798",
+  "edition": 3663,
+  "date": 1790585381482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Black Savanna Jersey"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch With Scratch"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Vintage Bobble"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

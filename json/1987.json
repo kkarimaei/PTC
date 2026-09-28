@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1987",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1987.png",
+  "dna": "a669a5ba06348c5fbdd7cc9f80abae651ffd94a8",
+  "edition": 2113,
+  "date": 1790584882028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt With Simurgh"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

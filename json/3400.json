@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #3400",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3400.png",
+  "dna": "01119cb6657c1dc4a528ea055425495acfa4bd87",
+  "edition": 1999,
+  "date": 1790584842618,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

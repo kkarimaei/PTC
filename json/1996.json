@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #1996",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1996.png",
+  "dna": "19354661ddf7e257361c1585bfa1dfbca06205cf",
+  "edition": 595,
+  "date": 1790584424293,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Blue Wayfarer Sunglasses"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

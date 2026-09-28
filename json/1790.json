@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1790",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1790.png",
+  "dna": "a8db03bfa775077a61a099f8b066d80e39acf158",
+  "edition": 1718,
+  "date": 1790584752398,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Official Wear",
+      "value": "Solid Olived Shirt"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

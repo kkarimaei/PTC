@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #452",
+  "description": "For Pirouz and his probable extinction",
+  "image": "452.png",
+  "dna": "4e47148465eec32134f0a43244306ccc814d0d00",
+  "edition": 2012,
+  "date": 1790584847335,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Racer Jacket"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

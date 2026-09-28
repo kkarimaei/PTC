@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #3115",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3115.png",
+  "dna": "b4bb3e1d8a3acc0481a065e99606a4babf9514ff",
+  "edition": 1791,
+  "date": 1790584774645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt With Simurgh"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Gold Aviator Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

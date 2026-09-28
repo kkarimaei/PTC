@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz #1581",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1581.png",
+  "dna": "4c1e3ed6bba5058d7b2ae39aceae3a66fe786dbc",
+  "edition": 3762,
+  "date": 1790585412581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Ancient Attire",
+      "value": "Achaemenid Lion Mantle"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #9",
+  "description": "For Pirouz and his probable extinction",
+  "image": "9.png",
+  "dna": "af6b44998dbe6c766e95a5e17ef9580e9620cd8e",
+  "edition": 2073,
+  "date": 1790584867196,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy TShirt"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

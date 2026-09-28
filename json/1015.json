@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1015",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1015.png",
+  "dna": "0cf69d4799f92eac33560cf7113183f7aedc4872",
+  "edition": 3580,
+  "date": 1790585355029,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Yellow Cheetah Jersey"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Farvahar Chain"
+    },
+    {
+      "trait_type": "Special Head Wear",
+      "value": "Green Hunter Ring Beanie"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

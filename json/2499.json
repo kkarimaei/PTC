@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #2499",
+  "description": "For Pirouz and his probable extinction",
+  "image": "2499.png",
+  "dna": "e2d980ac9589d9bbf2e197315b2fb57d7b744420",
+  "edition": 300,
+  "date": 1790584356179,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Happy Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green Hawaiian Shirt"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Brown Pompadour Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

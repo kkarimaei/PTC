@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #1156",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1156.png",
+  "dna": "5ae9e850aa59acce5ee21ea2ca72e62994ad45ed",
+  "edition": 2010,
+  "date": 1790584846654,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Olive paw Bomber"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

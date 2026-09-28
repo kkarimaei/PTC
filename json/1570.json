@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #1570",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1570.png",
+  "dna": "08b57c948be79652c41e63fafb4ca24105e7729a",
+  "edition": 2880,
+  "date": 1790585127363,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Magneta Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Black Savanna Jersey"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Thin Gold Chain"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Swallow Tattoo"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Blue Wayfarer Sunglasses"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

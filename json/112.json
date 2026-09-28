@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #112",
+  "description": "For Pirouz and his probable extinction",
+  "image": "112.png",
+  "dna": "3ceae86e31b54b54a74169d7cfd19492b65200fc",
+  "edition": 3527,
+  "date": 1790585337426,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Cheetah Chain"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #822",
+  "description": "For Pirouz and his probable extinction",
+  "image": "822.png",
+  "dna": "0e6b621be032f18e71090d406f129292b76d16db",
+  "edition": 1790,
+  "date": 1790584774317,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Olive Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Excited Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Soccer jersey"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

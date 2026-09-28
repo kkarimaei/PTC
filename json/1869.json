@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #1869",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1869.png",
+  "dna": "975618a73a76afada71a6c0bc917dc8ef72a19f6",
+  "edition": 2192,
+  "date": 1790584908423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Teal"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hopeful Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Ruby Flare Hoodie"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Green Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

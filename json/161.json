@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #161",
+  "description": "For Pirouz and his probable extinction",
+  "image": "161.png",
+  "dna": "27e33bcaed332e8d24dec843dd2f972d08d290e3",
+  "edition": 2503,
+  "date": 1790585005272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Striking Snake Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green Hawaiian Shirt"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

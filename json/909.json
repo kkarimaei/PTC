@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #909",
+  "description": "For Pirouz and his probable extinction",
+  "image": "909.png",
+  "dna": "a75f05e60839edef6b975a722a8a7918e5d5a9f6",
+  "edition": 2615,
+  "date": 1790585040871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Small Charm"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Blonde Messy Hair"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Dark Aviator Sunglasses"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

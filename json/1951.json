@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #1951",
+  "description": "For Pirouz and his probable extinction",
+  "image": "1951.png",
+  "dna": "34a5377905874ebbfad8836e697e1baf623dce6c",
+  "edition": 16,
+  "date": 1790584292656,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 3"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Forest Runner Tracksuit"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Black Messy Back Hair"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

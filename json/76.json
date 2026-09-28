@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #76",
+  "description": "For Pirouz and his probable extinction",
+  "image": "76.png",
+  "dna": "571f00fa2ff471631be79e1bf0acceb2c4955dab",
+  "edition": 1978,
+  "date": 1790584835799,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Sad Classic Face"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Racer Jacket"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Triple Band Bronze Ear Cuff"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Blue Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

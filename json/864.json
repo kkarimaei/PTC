@@ -1,0 +1,35 @@
+{
+  "name": "Pirouz #864",
+  "description": "For Pirouz and his probable extinction",
+  "image": "864.png",
+  "dna": "710ce6d5aa5d8f1f5148ac978ee454cd7916e23d",
+  "edition": 1989,
+  "date": 1790584839436,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Rose Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green TShirt"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Black Wayfarer Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Navy Cap"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

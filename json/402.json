@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz #402",
+  "description": "For Pirouz and his probable extinction",
+  "image": "402.png",
+  "dna": "cbe6f7a7b317af3ae1d93817adc06e0927ded4f4",
+  "edition": 2636,
+  "date": 1790585048524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 1"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Magneta Face"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Thin Gold Chain"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Highlighted Textured Hair"
+    },
+    {
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #409",
+  "description": "For Pirouz and his probable extinction",
+  "image": "409.png",
+  "dna": "3295c44b9eb38ea7f6e537e086d151e984574620",
+  "edition": 538,
+  "date": 1790584411628,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Koi Fish Tattoo"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Navy Blue TShirt With Simurgh"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

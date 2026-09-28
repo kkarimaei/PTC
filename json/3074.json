@@ -1,0 +1,27 @@
+{
+  "name": "Pirouz #3074",
+  "description": "For Pirouz and his probable extinction",
+  "image": "3074.png",
+  "dna": "c4f1f92dd91cc40fce6ffc5411f5d3def90eb418",
+  "edition": 3339,
+  "date": 1790585277257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Special 2"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Bored Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Navy Tank Top"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Lightning Bolt Tattoo"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}
