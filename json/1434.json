@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #1434",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/images/1434.png",
+  "dna": "33ef6858e97e8dbc611d3fa5f68ff950f6ec17b1",
+  "edition": 1434,
+  "date": 1791186687146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark Purple"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Special Wear",
+      "value": "Achaemenid Lion Mantle"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

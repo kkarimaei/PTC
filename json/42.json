@@ -1,0 +1,31 @@
+{
+  "name": "Pirouz The Cheetah #42",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/images/42.png",
+  "dna": "669676175f4aaa8ab992a3b64fa949c0cf39b63c",
+  "edition": 42,
+  "date": 1791186370683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pale Green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Confident Classic Face"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "Snake And Dagger Tattoo"
+    },
+    {
+      "trait_type": "Hair Style",
+      "value": "Brown Pompadour Hair"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Olive paw Bomber"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}

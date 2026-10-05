@@ -1,0 +1,23 @@
+{
+  "name": "Pirouz The Cheetah #3712",
+  "description": "For Pirouz and his probable extinction",
+  "image": "https://kkarimaei.github.io/PTC/images/3712.png",
+  "dna": "348c686ae9c93ed2d2a3de5014c00f6f4295c094",
+  "edition": 3712,
+  "date": 1791187284872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tan"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Angry Classic Face"
+    },
+    {
+      "trait_type": "Special Outfit",
+      "value": "Vintage Garrison"
+    }
+  ],
+  "compiler": "Pirouz The Cheetah NFT Collection"
+}
