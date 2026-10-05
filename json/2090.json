@@ -1,26 +1,26 @@
 {
-  "name": "Pirouz The Cheetah #2090",
+  "name": "Pirooz #2090",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/2090.png",
-  "dna": "01126c22baa16d793f7edf6e83a90329dc623780",
-  "edition": 2090,
-  "date": 1791186835539,
+  "dna": "347871c0970e553ddb4adf6849a9561ade3ed8d9",
+  "edition": 668,
+  "date": 1791195769893,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Olive Green"
+      "value": "Navy Blue"
     },
     {
       "trait_type": "Face",
-      "value": "Angry Classic Face"
+      "value": "Sad Classic Face"
     },
     {
-      "trait_type": "Sport Wear",
-      "value": "Soccer jersey"
+      "trait_type": "Hair Style",
+      "value": "Dark Brown Comb Over Hair"
     },
     {
-      "trait_type": "Eye Patch",
-      "value": "Pirate Eyepatch"
+      "trait_type": "Special Wear",
+      "value": "Sailor Suit"
     }
   ],
   "compiler": "Pirouz The Cheetah NFT Collection"

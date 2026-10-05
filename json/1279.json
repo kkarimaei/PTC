@@ -1,34 +1,42 @@
 {
-  "name": "Pirouz The Cheetah #1279",
+  "name": "Pirooz #1279",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/1279.png",
-  "dna": "1f7a4a8d6a32c1fc7741a35f89137db9bcd961e3",
-  "edition": 1279,
-  "date": 1791186651520,
+  "dna": "32333589367cadb5f3a9d5647dc2117fc89e59e6",
+  "edition": 3300,
+  "date": 1791196362844,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Lavender"
+      "value": "Dark Purple"
     },
     {
       "trait_type": "Face",
-      "value": "Friendly Classic Face"
+      "value": "Happy Classic Face"
+    },
+    {
+      "trait_type": "Tank Top",
+      "value": "Navy Tank Top"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Gold Chain With Kaviani's Flag Pendant"
     },
     {
       "trait_type": "Tattoo",
-      "value": "Striking Snake Tattoo"
-    },
-    {
-      "trait_type": "Hair Style",
-      "value": "Blonde Textured Hair"
-    },
-    {
-      "trait_type": "Sport Wear",
-      "value": "Navy TShirt"
+      "value": "Swallow Tattoo"
     },
     {
       "trait_type": "Ear Cuff",
-      "value": "Triple Band Silver Ear Cuff"
+      "value": "Ornate Gold Ear Cuff"
+    },
+    {
+      "trait_type": "Sun Glasses",
+      "value": "Blue Wayfarer Sunglasses"
+    },
+    {
+      "trait_type": "Head Wear",
+      "value": "Reversed Navy Blue Snapback"
     }
   ],
   "compiler": "Pirouz The Cheetah NFT Collection"

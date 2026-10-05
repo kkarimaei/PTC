@@ -1,10 +1,10 @@
 {
-  "name": "Pirouz The Cheetah #1783",
+  "name": "Pirooz #1783",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/1783.png",
-  "dna": "43d8686443c95dc455eac6438d06b6cd2b84754f",
-  "edition": 1783,
-  "date": 1791186762282,
+  "dna": "6a6a1c7f4132c9eefb45bd1d611d21d48303e16e",
+  "edition": 3483,
+  "date": 1791196405490,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,19 +12,23 @@
     },
     {
       "trait_type": "Face",
-      "value": "Friendly Classic Face"
+      "value": "Angry Classic Face"
     },
     {
-      "trait_type": "Sport Wear",
-      "value": "Olive paw Bomber"
+      "trait_type": "Tank Top",
+      "value": "Charcoal Tank Top"
     },
     {
-      "trait_type": "Ear Cuff",
-      "value": "Triple Band Silver Ear Cuff"
+      "trait_type": "Chain",
+      "value": "Thin Gold Chain"
     },
     {
-      "trait_type": "Sun Glasses",
-      "value": "Black Wayfarer Sunglasses"
+      "trait_type": "Tattoo",
+      "value": "Koi Fish Tattoo"
+    },
+    {
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch"
     },
     {
       "trait_type": "Head Wear",

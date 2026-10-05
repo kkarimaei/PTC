@@ -1,38 +1,30 @@
 {
-  "name": "Pirouz The Cheetah #149",
+  "name": "Pirooz #149",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/149.png",
-  "dna": "6be44bc9b756417076b57b62e8b32c24b8a42b22",
-  "edition": 149,
-  "date": 1791186396340,
+  "dna": "0f1857d2324ced25eaa352d3d11b87ba330b8536",
+  "edition": 2458,
+  "date": 1791196164953,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Aryan"
+      "value": "Lavender"
     },
     {
       "trait_type": "Face",
-      "value": "Hopeful Classic Face"
-    },
-    {
-      "trait_type": "Tattoo",
-      "value": "Lightning Bolt Tattoo"
-    },
-    {
-      "trait_type": "Hair Style",
-      "value": "Black Messy Back Hair"
+      "value": "Sad Classic Face"
     },
     {
       "trait_type": "Sport Wear",
-      "value": "Racer Jacket"
+      "value": "Navy Blue TShirt With Simurgh"
     },
     {
-      "trait_type": "Ear Cuff",
-      "value": "Triple Band Bronze Ear Cuff"
+      "trait_type": "Eye Patch",
+      "value": "Pirate Eyepatch With Scratch"
     },
     {
-      "trait_type": "Sun Glasses",
-      "value": "Blue Wayfarer Sunglasses"
+      "trait_type": "Special Head Wear",
+      "value": "Newsboy Cap"
     }
   ],
   "compiler": "Pirouz The Cheetah NFT Collection"

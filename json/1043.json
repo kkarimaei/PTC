@@ -1,10 +1,10 @@
 {
-  "name": "Pirouz The Cheetah #1043",
+  "name": "Pirooz #1043",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/1043.png",
-  "dna": "22f365644c1432b23f99f4be54fffb3b268e66f4",
-  "edition": 1043,
-  "date": 1791186599442,
+  "dna": "c416b747b67059705a596280099d2ced1aaff1fc",
+  "edition": 84,
+  "date": 1791195637374,
   "attributes": [
     {
       "trait_type": "Background",
@@ -15,12 +15,16 @@
       "value": "Angry Classic Face"
     },
     {
-      "trait_type": "Hair Style",
-      "value": "Brown Pompadour Hair"
+      "trait_type": "Tattoo",
+      "value": "Koi Fish Tattoo"
     },
     {
-      "trait_type": "Official Wear",
-      "value": "Navy Blue Blazer"
+      "trait_type": "Hair Style",
+      "value": "Blonde Messy Hair"
+    },
+    {
+      "trait_type": "Sport Wear",
+      "value": "Green Hawaiian Shirt"
     },
     {
       "trait_type": "Sun Glasses",

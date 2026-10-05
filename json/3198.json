@@ -1,34 +1,26 @@
 {
-  "name": "Pirouz The Cheetah #3198",
+  "name": "Pirooz #3198",
   "description": "For Pirouz and his probable extinction",
   "image": "https://kkarimaei.github.io/PTC/images/3198.png",
-  "dna": "0522b5cf075d914e3a2303f681bcb1c4fe2ebe99",
-  "edition": 3198,
-  "date": 1791187101988,
+  "dna": "e1390d8faaf5264a0df78109c15489a416dc52b2",
+  "edition": 1403,
+  "date": 1791195930895,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Olive Green"
+      "value": "Dark Teal"
     },
     {
       "trait_type": "Face",
-      "value": "Happy Classic Face"
+      "value": "Friendly Classic Face"
     },
     {
-      "trait_type": "Tank Top",
-      "value": "Black Savanna Jersey"
+      "trait_type": "Special Wear",
+      "value": "Sailor Suit"
     },
     {
-      "trait_type": "Chain",
-      "value": "Gold Chain With Small Charm"
-    },
-    {
-      "trait_type": "Tattoo",
-      "value": "Lightning Bolt Tattoo"
-    },
-    {
-      "trait_type": "Head Wear",
-      "value": "Green Cap"
+      "trait_type": "Ear Cuff",
+      "value": "Engraved Gold Ear Cuff"
     }
   ],
   "compiler": "Pirouz The Cheetah NFT Collection"
